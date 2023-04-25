@@ -11,5 +11,10 @@
         "cost": 1299,
         "borrowed": false
       }
-    ]
-  }
+    ],
+
+    "outroTeste": {
+        "nome" : "Eduardo",
+        "idade" : 23
+    }
+}
